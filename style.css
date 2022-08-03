@@ -1,0 +1,46 @@
+#account{
+    color: white;
+    margin-right: 50px;
+}
+
+#person{
+    margin-right: 10px;
+    filter: invert();
+}
+#connect{
+    margin-right: 5px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden
+}
+
+#like{
+    width:8%;
+}
+
+.card1{
+    text-align: center;
+}
+
+.card3{
+    text-align: center;
+}
+.img-profile{
+    border-radius: 50%;
+}
+.img-status{
+    border-radius: 50%;
+}
+
+.row2{
+    text-align: center;
+    display: flex;
+    padding: 20px;
+}
+
+.img-event{
+    align-self: center;
+}
